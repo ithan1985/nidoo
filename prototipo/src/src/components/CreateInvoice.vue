@@ -54,7 +54,7 @@ export default {
   methods: {
     onSubmit (evt) {
       evt.preventDefault()
-      axios.post(`http://localhost:3000/invoice`, this.invoice)
+      axios.post(`http://157.253.238.35/invoice`, this.invoice)
       .then(response => {
         this.$router.push({
           name: 'ShowInvoice',

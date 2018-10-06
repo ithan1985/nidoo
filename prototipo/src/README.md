@@ -1,6 +1,6 @@
-# uniandes
+# nidoo
 
-> tareas uniandes
+> nidoo
 
 ## Build Setup
 

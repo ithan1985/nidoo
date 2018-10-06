@@ -37,7 +37,7 @@ export default {
     }
   },
   created () {
-    axios.get(`http://localhost:3000/invoice`)
+    axios.get(`/invoice`)
     .then(response => {
       this.invoices = response.data
     })

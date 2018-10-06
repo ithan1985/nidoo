@@ -35,7 +35,7 @@ export default {
     }
   },
   created () {
-    axios.get(`http://localhost:3000/invoice/` + this.$route.params.id)
+    axios.get(`http://157.253.238.35/invoice/` + this.$route.params.id)
     .then(response => {
       this.invoice = response.data
     })
@@ -51,7 +51,7 @@ export default {
       })
     },
     deleteinvoice (invoiceid) {
-      axios.delete('http://localhost:3000/invoice/' + invoiceid)
+      axios.delete('http://157.253.238.35/invoice/' + invoiceid)
       .then((result) => {
         this.$router.push({
           name: 'InvoiceList'
