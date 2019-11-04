@@ -1,2 +1,0 @@
-## Complejidad baja
-Creando un formulario para recolectar datos tales como: Placa del vehículo, nombre del cliente, cantidad de minutos y valor por minuto; un algoritmo sencillo para calcular la factura y un modelo de persistencia sencillo para almacenar la información. 
