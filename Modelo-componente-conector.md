@@ -1,0 +1,3 @@
+![Modelo de Contexto](https://github.com/MISO-4206/201820-Repo-Grupo-01/blob/master/Documentaci%C3%B3n/Modelo%20componente-conector/trabajo%20grupal%20semana%205-C%26C.jpg)
+
+Este modelo, permite ver los principales componentes con que cuenta el sistema y como se relacionan usando las interfaces descritas en la parte inferior del grafico. se muestra un componente transversal que se encarga de enviar las comunicaciones a los usuarios y sistemas externos. Se muestran además las interfaces externas que espera el sistema para realizar el proceso de pagos y el proceso de ubicación y dibujo en un mapa georreferenciado.

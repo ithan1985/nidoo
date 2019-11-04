@@ -1,0 +1,1 @@
+[Informe](https://github.com/MISO-4206/201820-Repo-Grupo-01/blob/master/Documentaci%C3%B3n/Sprint%201/Entrega%20Sprint%202.pdf)
